@@ -1,0 +1,32 @@
+###############
+# Directories #
+###############
+build/
+bin/
+target/
+libs/
+tmp/
+.git/
+.settings/
+
+############
+# OS Files #
+############
+.DS_Store
+.project
+.classpath
+.project
+
+#################
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+*.db
+rebel.xml
+
+######################
+# Folder config file #
+######################
+Desktop.ini
