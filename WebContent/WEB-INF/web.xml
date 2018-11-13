@@ -17,9 +17,12 @@
   <context-param>
     <description>Location to store uploaded file</description>
     <param-name>temp-path</param-name>
+    <!-- 
     <param-value>
          //Users//cvt10//Documents//temp//tmp.csv
     </param-value>
+     -->
+     <param-value>..//..//src//resources//tmp.csv</param-value>
   </context-param>
   <context-param>
     <description>Location to the main csv file</description>
